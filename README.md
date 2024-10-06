@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @gaby-salajan
-- 👀 a Computer Science student
+### 👋 Hi there, I'm Gabriel Salajan
+I am a software engineer graduated in computer sciences.
 
-<!---
-This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate about programming and solving problems.
+
+🥊 Enjoying working out and running and I am also really passionate about motor sports.
+
+🚘 I am a sim racer in my free time.
