@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Gabriel Salajan
-a software engineer graduated in computer sciences.
+an Emerging Software Engineer graduated in Computer Science.
 
 💻 Passionate about programming and solving problems.
 
