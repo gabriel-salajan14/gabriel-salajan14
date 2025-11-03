@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Gabriel Salajan
-an Fullstack Software Engineer.
+a Fullstack Software Engineer.
 
 💻 Passionate about programming and solving problems.
 
