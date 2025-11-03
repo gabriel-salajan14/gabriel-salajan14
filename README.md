@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Gabriel Salajan
-an Emerging Software Engineer graduated in Computer Science.
+an Fullstack Software Engineer.
 
 💻 Passionate about programming and solving problems.
 
